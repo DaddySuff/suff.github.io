@@ -1,35 +1,40 @@
 <!DOCTYPE html>
-    <html lang="en"> 
-        <head> 
-            <title>pock</title> 
-            <meta name="description" content="pock#1716"> 
-            <link rel="shortcut icon" href="./favicon.ico"> 
-            <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
-            <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1"> 
-            <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-            <meta property="og:title" content="pock's portfolio"> 
-            <meta property="og:url" content="https://pock.wtf"> 
-            <meta name="twitter:card" content="summary_large_image"> 
-            <meta property="twitter:image" content="https://pock.wtf/r.gif"> 
-            <meta name="theme-color" content="#2e2e2c"> 
-            <link rel="stylesheet" href="./a.css"> 
-            <link rel="stylesheet" href="./m.css"> </head> 
-            <body> 
-                <video loop autoplay muted style="width: 100vw;height: 100vh;object-fit: cover;position: fixed;left: 0;right: 0;top: 0;bottom: 0;z-index: -1;" id="video">
-                    <source src="Sequenz01.mp4" type="video/mp4"></source></video>
-                <div id="text"> 
-                    <h3 style="color: #fff;">pock 
-                        <i class="fas fa-badge-check"></i></h3> 
-                    </div><div id="typur"></div><div id="buttons"> <br>
-                        <button type="button" class="btn btn-outline-white" onclick="window.open('https://discord.com/users/746411175494811688')">cord</button> <br><br>
-                        <button type="button" class="btn btn-outline-white" onclick="window.open('https://t.me/supermonkeyball')">t.me</button> <br><br>
-                        <button type="button" class="btn btn-outline-white" onclick="window.open('https://ogusers.com/55')">ogu</button> <br><br>
-                        <button type="button" class="btn btn-outline-white" onclick="window.open('https://twitter.com/pnck')">twt</button> <br><br>
-                    </div>
-                    <script src="./core.js">
-                    </script>
-                    <script src="./font.js">
-                    </script>
-                    <script src="./main.js"></script> 
-            </body>
-        </html>
+<html onclick="play()" lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="css/glitch.css">
+    <link rel="stylesheet" type="text/css" href="css/marquee.css">
+    <audio src="media/music.mp3"></audio>
+    <title>𝕡𝕠𝕔𝕜/title>
+  </head>
+  <body>
+  	 <audio id="audio" loop>
+        <source src="media/music.mp3" type="audio/mp3">
+     </audio>
+    <div id="app">
+      <div id="wrapper">
+        <h1 class="glitch" data-text="pock">pock</h1>
+      </div>
+    </div>
+    <div class="marquee-container">
+      <pre>|<div id="marquee" class="marquee"></div>|</pre>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="js/jquery.marquee.min.js"></script>
+    <script type="text/javascript" src="js/slideshow.js"></script>
+    <script type="text/javascript" src="js/music.js"></script>
+    <script>
+  		var audio = document.getElementById("audio");
+ 	 	audio.volume = 0.01;
+	</script>
+    <script>
+      function play() {
+        var audio = document.getElementById("audio");
+        audio.play();
+      }
+    </script>
+  </body>
+</html>
