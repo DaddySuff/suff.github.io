@@ -4,11 +4,6 @@ $(document).ready(function () {
       name: 'discord',
       link: 'https://discord.com/users/746411175494811688',
     },
-    
-    {
-      name: 'tiktok',
-      link: 'https://tiktok.com/@amug',
-    },
 
     {
       name: 'twitter',
