@@ -24,6 +24,21 @@ $(document).ready(function () {
       name: 'telegram',
       link: 'https://t.me/gapped',
     },
+    
+    {
+      name: 'about.me',
+      link: 'https://about.me/hole',
+    },
+    
+    {
+      name: 'e.rip',
+      link: 'https://e.rip/hw',
+    },
+    
+    {
+      name: 'solo.to',
+      link: 'https://solo.to/pock',
+    },
 
   ];
 
