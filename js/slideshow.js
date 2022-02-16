@@ -6,8 +6,8 @@ $(document).ready(function () {
     },
 
     {
-      name: 'twitter',
-      link: 'https://twitter.com/pnck',
+      name: 'namemc',
+      link: 'https://namemc.com/206.10',
     },
 
     {
@@ -17,22 +17,12 @@ $(document).ready(function () {
 
     {
       name: 'telegram',
-      link: 'https://t.me/gapped',
+      link: 'https://t.me/flinches',
     },
     
     {
       name: 'about.me',
       link: 'https://about.me/hole',
-    },
-    
-    {
-      name: 'e.rip',
-      link: 'https://e.rip/hw',
-    },
-    
-    {
-      name: 'solo.to',
-      link: 'https://solo.to/pock',
     },
 
   ];
