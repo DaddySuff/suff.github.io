@@ -6,8 +6,23 @@ $(document).ready(function () {
     },
 
     {
-      name: 'namemc',
+      name: '206 mc',
       link: 'https://namemc.com/206.10',
+    },
+
+    {
+      name: 'greatly mc',
+      link: 'https://namemc.com/greatly.3',
+    },
+
+    {
+      name: 'a tiktok',
+      link: 'https://tiktok.com/@aaaaaaaaaaaaaaaaaa',
+    },
+
+    {
+      name: 'd tiktok',
+      link: 'https://tiktok.com/@dddddddddddddddddddd',
     },
 
     {
@@ -18,11 +33,6 @@ $(document).ready(function () {
     {
       name: 'telegram',
       link: 'https://t.me/flinches',
-    },
-    
-    {
-      name: 'about.me',
-      link: 'https://about.me/hole',
     },
 
   ];
