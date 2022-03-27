@@ -16,15 +16,13 @@ $(document).ready(function () {
     },
 
     {
-      name: 'a tiktok',
-      link: 'https://tiktok.com/@aaaaaaaaaaaaaaaaaa',
-    },
-
+      name: 'tiktok font',
+      link: 'https://www.tiktok.com/@MS4wLjABAAAAmE-kzGxdFNY3qoeWIEeMjOhU1d_2NxVSxeklNwxmcVq-Tn1EBfGYd_SHxePVUfH0',
     },
 
     {
       name: 'telegram',
-      link: 'https://t.me/champlain',
+      link: 'https://t.me/flinches',
     },
 
   ];
