@@ -6,13 +6,13 @@ $(document).ready(function () {
     },
 
     {
-      name: '206 mc',
-      link: 'https://namemc.com/206.10',
+      name: 'cram mc',
+      link: 'https://namemc.com/cram.2',
     },
 
     {
-      name: 'greatly mc',
-      link: 'https://namemc.com/greatly.3',
+      name: 'ycj mc',
+      link: 'https://namemc.com/ycj.5',
     },
 
     {
@@ -20,19 +20,11 @@ $(document).ready(function () {
       link: 'https://tiktok.com/@aaaaaaaaaaaaaaaaaa',
     },
 
-    {
-      name: 'd tiktok',
-      link: 'https://tiktok.com/@dddddddddddddddddddd',
-    },
-
-    {
-      name: 'soundcloud',
-      link: 'https://soundcloud.com/assassinationclassroom',
     },
 
     {
       name: 'telegram',
-      link: 'https://t.me/flinches',
+      link: 'https://t.me/champlain',
     },
 
   ];
