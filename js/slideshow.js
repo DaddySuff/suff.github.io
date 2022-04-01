@@ -6,23 +6,18 @@ $(document).ready(function () {
     },
 
     {
-      name: 'cram mc',
+      name: '034 mc',
       link: 'https://namemc.com/cram.2',
     },
 
     {
-      name: 'ycj mc',
+      name: 'optimistic mc',
       link: 'https://namemc.com/ycj.5',
     },
 
     {
-      name: 'tiktok font',
-      link: 'https://www.tiktok.com/@MS4wLjABAAAAmE-kzGxdFNY3qoeWIEeMjOhU1d_2NxVSxeklNwxmcVq-Tn1EBfGYd_SHxePVUfH0',
-    },
-
-    {
-      name: 'telegram',
-      link: 'https://t.me/flinches',
+      name: 'tiktok',
+      link: 'https://www.tiktok.com/@supervision',
     },
 
   ];
