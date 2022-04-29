@@ -6,18 +6,28 @@ $(document).ready(function () {
     },
 
     {
-      name: '034 mc',
-      link: 'https://namemc.com/cram.2',
+      name: 'namemc',
+      link: 'https://namemc.com/kno.2',
     },
 
     {
-      name: 'optimistic mc',
-      link: 'https://namemc.com/ycj.5',
+      name: 'soundcloud',
+      link: 'https://soundcloud.com/hoglin',
     },
 
+    {
+      name: 'telegram',
+      link: 'https://t.me/ggggggggggggggggggggggggg',
+    },
+    
     {
       name: 'tiktok',
-      link: 'https://www.tiktok.com/@supervision',
+      link: 'https://tiktok.com/@MS4wLjABAAAAosrqsXAIUw0DG96AQgTZdJd95l4GzgXln3mqrVLHGrrejA1NepICnru5TtGXIgEp',
+    },
+
+    {
+      name: 'insta',
+      link: 'https://instagram.com/cedv',
     },
 
   ];
