@@ -7,7 +7,7 @@ $(document).ready(function () {
 
     {
       name: 'namemc',
-      link: 'https://namemc.com/kno.2',
+      link: 'https://namemc.com/pockk.2',
     },
 
     {
@@ -17,17 +17,27 @@ $(document).ready(function () {
 
     {
       name: 'telegram',
-      link: 'https://t.me/ggggggggggggggggggggggggg',
+      link: 'https://t.me/propellor',
     },
     
     {
       name: 'tiktok',
-      link: 'https://tiktok.com/@MS4wLjABAAAAosrqsXAIUw0DG96AQgTZdJd95l4GzgXln3mqrVLHGrrejA1NepICnru5TtGXIgEp',
+      link: 'https://tiktok.com/@p_ck',
     },
 
     {
-      name: 'insta',
-      link: 'https://instagram.com/cedv',
+      name: 'twitter',
+      link: 'https://twitter.com/ohub',
+    },
+
+    {
+      name: 'xbox',
+      link: 'https://xboxgamertag.com/search/micronesia',
+    },
+
+    {
+      name: 'twitch',
+      link: 'https://twitch.tv/thorns',
     },
 
   ];
