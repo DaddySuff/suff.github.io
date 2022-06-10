@@ -6,6 +6,11 @@ $(document).ready(function () {
     },
 
     {
+      name: 'ogu',
+      link: 'https://ogu.gg/55',
+    },
+    
+    {
       name: 'namemc',
       link: 'https://namemc.com/pockk.2',
     },
@@ -39,6 +44,8 @@ $(document).ready(function () {
       name: 'twitch',
       link: 'https://twitch.tv/thorns',
     },
+
+
 
   ];
 
