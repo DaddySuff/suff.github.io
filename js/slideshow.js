@@ -1,9 +1,5 @@
 $(document).ready(function () {
   var links = [
-    {
-      name: 'discord',
-      link: 'https://discord.com/users/746411175494811688',
-    },
 
     {
       name: 'ogu',
@@ -12,22 +8,7 @@ $(document).ready(function () {
     
     {
       name: 'namemc',
-      link: 'https://namemc.com/pockk.2',
-    },
-
-    {
-      name: 'soundcloud',
-      link: 'https://soundcloud.com/hoglin',
-    },
-
-    {
-      name: 'telegram',
-      link: 'https://t.me/propellor',
-    },
-    
-    {
-      name: 'tiktok',
-      link: 'https://tiktok.com/@p_ck',
+      link: 'https://namemc.com/th0t',
     },
 
     {
@@ -36,13 +17,8 @@ $(document).ready(function () {
     },
 
     {
-      name: 'xbox',
-      link: 'https://xboxgamertag.com/search/micronesia',
-    },
-
-    {
       name: 'twitch',
-      link: 'https://twitch.tv/thorns',
+      link: 'https://twitch.tv/padlock',
     },
 
 
