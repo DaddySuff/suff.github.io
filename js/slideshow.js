@@ -2,23 +2,23 @@ $(document).ready(function () {
   var links = [
 
     {
-      name: 'ogu',
-      link: 'https://ogu.gg/55',
+      name: 'Discord',
+      link: 'https://discord.com/users/984842390986690590',
     },
     
     {
-      name: 'namemc',
-      link: 'https://namemc.com/th0t',
+      name: 'NameMC',
+      link: 'https://namemc.com/DaddySuff.1',
     },
 
     {
-      name: 'twitter',
-      link: 'https://twitter.com/ohub',
+      name: 'Twitter',
+      link: 'https://twitter.com/DaddySuff',
     },
 
     {
-      name: 'twitch',
-      link: 'https://twitch.tv/padlock',
+      name: 'Spotify',
+      link: 'https://open.spotify.com/user/t3ft949yk3i2rvjjsrdugsgrz',
     },
 
 
