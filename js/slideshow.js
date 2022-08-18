@@ -40,9 +40,9 @@ $(function () {
   var $diaplay = $('#display');
   $('.marquee')
     .bind('beforeStarting', function () {
-      $diaplay.show().html('started').delay(2000).fadeOut('slow');
+      $diaplay.show().html('started').delay(2000).fadeOut('fast');
     })
     .marquee({
-      duration: 4000,
+      duration: 2000,
     });
 });
