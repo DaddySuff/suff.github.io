@@ -43,6 +43,6 @@ $(function () {
       $diaplay.show().html('started').delay(2000).fadeOut('fast');
     })
     .marquee({
-      duration: 6000,
+      duration: 4000,
     });
 });
